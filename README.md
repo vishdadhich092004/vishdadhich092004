@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishdadhich092004" alt="vishdadhich092004" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vish__dadhich" target="blank"><img src="https://img.shields.io/twitter/follow/vish__dadhich?logo=twitter&style=for-the-badge" alt="vish__dadhich" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vish_me_" target="blank"><img src="https://img.shields.io/twitter/follow/vish__dadhich?logo=twitter&style=for-the-badge" alt="vish__dadhich" /></a> </p>
 
 - 🔭 I’m currently working on **LuxeStay**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vish__dadhich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vish__dadhich" height="30" width="40" /></a>
+<a href="https://twitter.com/vish_me_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vish__dadhich" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishesh-dadhich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishesh-dadhich" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/vishesh-dadhich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vishesh-dadhich" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vishdadhich" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishdadhich" height="30" width="40" /></a>
