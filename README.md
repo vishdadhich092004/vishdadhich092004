@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Luxestay.com<br>👯 I’m looking to collaborate on OpenSource Projects<br>🤝 I’m looking for help with TypeScript/React<br>🌱 I’m currently learning Docker, TypeSccript and React.<br>💬 Ask me about anything :)<br>⚡ Fun fact : No Fun Fact.
+🔭 I’m currently working on Luxestay.com, BookNest.com.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vishdadhich092004&theme=date_night&no-frame=false&no-bg=false&margin-w=4)
